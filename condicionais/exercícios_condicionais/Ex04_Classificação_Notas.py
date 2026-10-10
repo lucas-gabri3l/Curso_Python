@@ -1,4 +1,4 @@
-nota = float(input("Qual foi a nota?: "))
+nota = float(input("Qual nota você da para o filme?: "))
 
 if nota >= 9:
     print("Excelente")
